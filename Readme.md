@@ -4,7 +4,7 @@ Interface for PS3 compatible dancemat controller into Node.js
 
 ## Usage
 
-    var DancematController = require('./dancemat')
+    var DancematController = require('dancemat')
     var dancemat = new DancematController
 
     dancemat.on("start:press", function(key) {
