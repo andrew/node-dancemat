@@ -2,7 +2,7 @@
   "author": "Andrew Nesbitt <andrewnez@gmail.com> (http://andrew.github.io)",
   "name": "dancemat",
   "description": "PS3 compatible dancemat controller into Node.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "os": [
     "darwin",
     "linux"
