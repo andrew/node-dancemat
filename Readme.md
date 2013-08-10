@@ -73,4 +73,4 @@ Interface for PS3 compatible dancemat controller into Node.js
 
 ## Copyright
 
-Copyright (c) 2013 Andrew Nesbitt. See [LICENSE](https://github.com/andrew/node-xbox-controller/blob/master/LICENSE) for details.
+Copyright (c) 2013 Andrew Nesbitt. See [LICENSE](https://github.com/andrew/node-dancemat/blob/master/LICENSE) for details.
