@@ -1,4 +1,4 @@
-# Node Dancemat
+# [Node Dancemat](http://libraries.io/npm/dancemat)
 
 Interface for PS3 compatible dancemat controller into Node.js
 
